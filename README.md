@@ -1,2 +1,4 @@
 # hello-world
-This is a starting repository
+Hello! 
+
+This is my first GitHub page. 
